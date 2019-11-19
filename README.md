@@ -1,4 +1,21 @@
 # phoenix
+# phoenix framework
+# hızlı entegrasyon
+# hızlı POC ve DEMO
+# sürükle bırak
+# www.liongates.net
+# mobile framework
+# mobile yazılım
+# mobil yazılım
+# web yazılım
+# java yazılım
+# java software
+# erp
+# crm
+# acil yazılım entegrasyon
+# java danismanlık
+# java danışmanlık
+
 Phoenix Mobile Web Agile Framework
 www.liongates.net
 Phoenix Agile Framework Hızlı yazılım geliştirme imkanı tanımaktadır.
